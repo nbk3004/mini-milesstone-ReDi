@@ -1,4 +1,4 @@
-# mini-milesstone-ReDi
+# mini-milestone-ReDi
 Mini-Milesstone week 1
 Mini Milestone Project
 Index
